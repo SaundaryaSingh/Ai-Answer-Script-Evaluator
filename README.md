@@ -1,5 +1,6 @@
 # Ai-Answer-Script-Evaluator
-<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/8ba28a3f-c8cb-4c4e-861f-143fca1c4e2f" />
+<img width="1904" height="943" alt="image" src="https://github.com/user-attachments/assets/aa36a95d-60e1-4e08-bfeb-b099a54c1abb" />
+
 
 🧠 AI Answer Script Evaluator
 
